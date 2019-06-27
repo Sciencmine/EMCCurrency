@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "contenttweaker:items/emccurrency_31",
+	"layer1": "contenttweaker:items/emccurrency_31_overlay"
+  }
+}
